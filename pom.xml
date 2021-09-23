@@ -15,6 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
+		<maven.version>3.3.9</maven.version>
 	</properties>
 	<dependencies>
 		<dependency>
